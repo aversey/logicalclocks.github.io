@@ -1016,11 +1016,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.hopsworks.ai/latest/python-api/expectation_api/</loc>
-         <lastmod>2025-11-21</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://docs.hopsworks.ai/latest/python-api/expectation_suite_api/</loc>
          <lastmod>2025-11-21</lastmod>
          <changefreq>daily</changefreq>
