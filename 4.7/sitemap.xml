@@ -996,6 +996,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://docs.hopsworks.ai/latest/python-api/deployment_api/</loc>
+         <lastmod>2025-12-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://docs.hopsworks.ai/latest/python-api/embedding_feature_api/</loc>
          <lastmod>2025-12-02</lastmod>
          <changefreq>daily</changefreq>
@@ -1096,6 +1101,16 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://docs.hopsworks.ai/latest/python-api/inference_batcher_api/</loc>
+         <lastmod>2025-12-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.hopsworks.ai/latest/python-api/inference_logger_api/</loc>
+         <lastmod>2025-12-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://docs.hopsworks.ai/latest/python-api/jobs/</loc>
          <lastmod>2025-12-02</lastmod>
          <changefreq>daily</changefreq>
@@ -1121,6 +1136,31 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://docs.hopsworks.ai/latest/python-api/model_api/</loc>
+         <lastmod>2025-12-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.hopsworks.ai/latest/python-api/model_links/</loc>
+         <lastmod>2025-12-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.hopsworks.ai/latest/python-api/model_registry_api/</loc>
+         <lastmod>2025-12-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.hopsworks.ai/latest/python-api/model_schema_api/</loc>
+         <lastmod>2025-12-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.hopsworks.ai/latest/python-api/model_serving_api/</loc>
+         <lastmod>2025-12-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://docs.hopsworks.ai/latest/python-api/online_ingestion/</loc>
          <lastmod>2025-12-02</lastmod>
          <changefreq>daily</changefreq>
@@ -1136,12 +1176,32 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://docs.hopsworks.ai/latest/python-api/predictor_api/</loc>
+         <lastmod>2025-12-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.hopsworks.ai/latest/python-api/predictor_state_api/</loc>
+         <lastmod>2025-12-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.hopsworks.ai/latest/python-api/predictor_state_condition_api/</loc>
+         <lastmod>2025-12-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://docs.hopsworks.ai/latest/python-api/projects/</loc>
          <lastmod>2025-12-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.hopsworks.ai/latest/python-api/query_api/</loc>
+         <lastmod>2025-12-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.hopsworks.ai/latest/python-api/resources_api/</loc>
          <lastmod>2025-12-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -1201,77 +1261,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://docs.hopsworks.ai/latest/python-api/transformer_api/</loc>
+         <lastmod>2025-12-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://docs.hopsworks.ai/latest/python-api/udf/</loc>
          <lastmod>2025-12-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.hopsworks.ai/latest/python-api/validation_report_api/</loc>
-         <lastmod>2025-12-02</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.hopsworks.ai/latest/python-api/model-registry/links/</loc>
-         <lastmod>2025-12-02</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.hopsworks.ai/latest/python-api/model-registry/model_api/</loc>
-         <lastmod>2025-12-02</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.hopsworks.ai/latest/python-api/model-registry/model_registry_api/</loc>
-         <lastmod>2025-12-02</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.hopsworks.ai/latest/python-api/model-registry/model_schema_api/</loc>
-         <lastmod>2025-12-02</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.hopsworks.ai/latest/python-api/model-serving/deployment_api/</loc>
-         <lastmod>2025-12-02</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.hopsworks.ai/latest/python-api/model-serving/inference_batcher_api/</loc>
-         <lastmod>2025-12-02</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.hopsworks.ai/latest/python-api/model-serving/inference_logger_api/</loc>
-         <lastmod>2025-12-02</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.hopsworks.ai/latest/python-api/model-serving/model_serving_api/</loc>
-         <lastmod>2025-12-02</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.hopsworks.ai/latest/python-api/model-serving/predictor_api/</loc>
-         <lastmod>2025-12-02</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.hopsworks.ai/latest/python-api/model-serving/predictor_state_api/</loc>
-         <lastmod>2025-12-02</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.hopsworks.ai/latest/python-api/model-serving/predictor_state_condition_api/</loc>
-         <lastmod>2025-12-02</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.hopsworks.ai/latest/python-api/model-serving/resources_api/</loc>
-         <lastmod>2025-12-02</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.hopsworks.ai/latest/python-api/model-serving/transformer_api/</loc>
          <lastmod>2025-12-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
