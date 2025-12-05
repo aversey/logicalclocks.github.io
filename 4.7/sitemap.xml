@@ -93,10 +93,6 @@
          <lastmod>2025-12-05</lastmod>
     </url>
     <url>
-         <loc>https://docs.hopsworks.ai/latest/concepts/mlops/mlops/</loc>
-         <lastmod>2025-12-05</lastmod>
-    </url>
-    <url>
          <loc>https://docs.hopsworks.ai/latest/concepts/mlops/opensearch/</loc>
          <lastmod>2025-12-05</lastmod>
     </url>
@@ -522,10 +518,6 @@
     </url>
     <url>
          <loc>https://docs.hopsworks.ai/latest/user_guides/integrations/emr/networking/</loc>
-         <lastmod>2025-12-05</lastmod>
-    </url>
-    <url>
-         <loc>https://docs.hopsworks.ai/latest/user_guides/migration/30_migration/</loc>
          <lastmod>2025-12-05</lastmod>
     </url>
     <url>
