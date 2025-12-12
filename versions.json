@@ -1,5 +1,13 @@
 [
   {
+    "version": "dev",
+    "title": "dev",
+    "aliases": [],
+    "properties": {
+      "hidden": true
+    }
+  },
+  {
     "version": "4.7",
     "title": "4.7",
     "aliases": [
