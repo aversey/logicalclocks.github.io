@@ -19,6 +19,12 @@ Follow these framework-specific guides to export a Model to the Model Registry.
 
 - [Other Python frameworks](frameworks/python.md)
 
+## Importing a model from HuggingFace
+
+You can also import a model directly from the [HuggingFace Hub](https://huggingface.co) through the Hopsworks UI.
+The download runs server-side and the model is registered automatically.
+See [Import from HuggingFace][how-to-import-a-model-from-huggingface].
+
 ## Model Schema
 
 A [Model schema](model_schema.md) describes the input and outputs for a model.
